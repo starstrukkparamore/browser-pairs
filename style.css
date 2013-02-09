@@ -11,9 +11,9 @@ a {
 
 body {
   text-align: center;
-  background-image: url(images/left.png);
+  background: url(http://wtvg.images.worldnow.com/images/20130973_BG1.jpg);
   background-repeat: no-repeat;
-  background-color: #F26522;
+  /* background-color: #F26522; */
   color: #DA4930;
   font-family: "Days One", sans-serif;
 }
