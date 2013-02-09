@@ -131,7 +131,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(http://external.ak.fbcdn.net/safe_image.php?d=AQDN_YPqXrRCvAN1&url=https%3A%2F%2Ffbcdn-profile-a.akamaihd.net%2Fhprofile-ak-ash4%2F372928_312146778905683_1937397604_n.jpg) center center no-repeat;
+  background: url(http://kse-online.com/images/uploads/fire_06.jpg) center center no-repeat;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
