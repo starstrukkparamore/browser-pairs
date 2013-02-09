@@ -98,7 +98,7 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
+.ie {background: url(http://images.google.com/search?hl=en&site=&tbm=isch&source=hp&biw=1680&bih=856&q=rainbow+peace+sign&oq=rainbow+pe&gs_l=img.1.0.0l10.32481.37055.0.40068.10.8.0.2.2.0.49.352.8.8.0...0.0...1ac.1.2.img.5CvhWRPjQSY#q=twilight+renesmee&hl=en&tbo=d&tbm=isch&tbs=simg:CAQSHwk2l5vxbg09dBoLCxCo1NgEGgIIFwwhGOrYLDeUp2k&bav=on.2,or.r_gc.r_pw.r_qf.&fp=70f886ab4c65fd72&biw=1680&bih=856&imgrc=N1Z-Q9_OT2XYvM%3A%3BSi6X_2Oq40BcOM%3Bhttp%253A%252F%252Fexternal.ak.fbcdn.net%252Fsafe_image.php%253Fd%253DAQBtzvRRAiYiXz6m%2526url%253Dhttps%25253A%25252F%25252Ffbcdn-profile-a.akamaihd.net%25252Fhprofile-ak-ash3%25252F174702_220937421374948_901859939_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252Ffas.kristen.robert%3B180%3B240) no-repeat; background-size: contain;}
 .fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
