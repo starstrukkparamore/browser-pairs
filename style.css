@@ -12,7 +12,7 @@ a {
 body {
   text-align: center;
   background: url(http://wtvg.images.worldnow.com/images/20130973_BG1.jpg);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   /* background-color: #F26522; */
   color: #DA4930;
   font-family: "Days One", sans-serif;
